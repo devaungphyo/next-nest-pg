@@ -8,16 +8,16 @@ and deployment.
 
 ### **Features**
 
-1. [X] NestJS backend
-2. [X] NextJS (v15) frontend
-1. [x] SWC for fast TypeScript and JavaScript transpilation
-2. [x] pnpm for efficient dependency management
-3. [x] JWT Access Token & Refresh Token Authentication for secure API access
-4. [x] PostgreSQL database with TypeORM
-5. [x] Nodemailer for email services
-6. [x] Linting and Formatting pre-configured for code quality
-7. [x] Micro-Frontend Support with Turborepo
-8. [x] Shadcn/UI integration for styled components
+1. [x] NestJS backend
+2. [x] NextJS (v15) frontend
+3. [x] SWC for fast TypeScript and JavaScript transpilation
+4. [x] pnpm for efficient dependency management
+5. [x] JWT Access Token & Refresh Token Authentication for secure API access
+6. [x] PostgreSQL database with TypeORM
+7. [x] Nodemailer for email services
+8. [x] Linting and Formatting pre-configured for code quality
+9. [x] Micro-Frontend Support with Turborepo
+10. [x] Shadcn/UI integration for styled components
 
 ### **Table of Contents**
 
